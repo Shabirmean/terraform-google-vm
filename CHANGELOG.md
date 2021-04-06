@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [conventional-commits](https://www.conventionalcommits.org/) for commit guidelines.
 
+## [6.3.0](https://www.github.com/terraform-google-modules/terraform-google-vm/compare/v6.2.0...v6.3.0) (2021-04-06)
+
+
+### Features
+
+* Add confidential compute flags ([#131](https://www.github.com/terraform-google-modules/terraform-google-vm/issues/131)) ([615c8bc](https://www.github.com/terraform-google-modules/terraform-google-vm/commit/615c8bce7e9ceb9e0ab6eca7f1e32ae615c7ab12))
+
 ## [6.2.0](https://www.github.com/terraform-google-modules/terraform-google-vm/compare/v6.1.0...v6.2.0) (2021-03-15)
 
 
